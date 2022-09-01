@@ -1,0 +1,9 @@
+- clone the repository from git
+- set up in localhost/htdocs
+- required php version - ^7.1 || ^8.0
+
+**Database Name: chatigniter**
+
+** IMPORT DATABASE FILE FROM: DATABASE FILE/chatigniter.sql **
+
+
